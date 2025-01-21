@@ -4,18 +4,13 @@ I'm a Frontend Lead Dev with over 6 years of experience specializing in Angular,
 
 When I'm not deep in code, you can find me exploring the latest tech, flexing my gaming skills, praying in temples/home, watching anime or traveling. 🎮🌍
 
-## Frontend Skills 🛠
-* *Angular*
-* *Ionic*
-* *React*
-* *Next.js*
-* *TypeScript*
-* *JavaScript*
-* *Capacitor*
-* *Electron*
-* *Vite*
-* *Rspack*
-* 
+## Frontend + Backend Skills 🛠
+* *Angular, Ionic, React, HTMX, Astro, Next.js*
+* *TypeScript, Javascript, Express, Elysia*
+* *Capacitor, Electron, Tauri*
+* *Vite, Rspack, NX*
+* *Rust, WASM, GO*
+* *Bun, NPM, PNPM*
 
 ## Technical Skills 🧪
 * *Data Structures & Algorithms*
@@ -29,6 +24,7 @@ When I'm not deep in code, you can find me exploring the latest tech, flexing my
 * *Project management*
 * *Problem-solving*
 * *Team collaboration*
+* *Cross Team management*
 * *Adaptability*
 * *People want a manager like me (Flexing this)*
 
